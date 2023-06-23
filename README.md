@@ -1,65 +1,29 @@
-<!-- TITLE -->
+<!-- Título -->
+# Começando Com Herança
 
-# CURSO DE GRAPHQL
+***Conteúdo da Aula:***
 
-<!-- TABLE OF CONTENTS -->
+* Foi criado a classe Cachorro;
+* Foi feito *extends* da classe Animal;
+* Foi adicionando três construtores a classe.
 
-<!-- ## TABELA DE CONTEÚDO -->
+1. [Animal.](animal.java)
+2. [Programa.](programa.java)
+3. [Cachorro.](cachorro.java)
 
-<!-- OVERVIEW -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL -->
-
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fgraphql-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-com-com-her-her-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/graphql-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/graphql-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/graphql-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/graphql-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/graphql-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-com-com-her-her-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
